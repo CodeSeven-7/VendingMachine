@@ -26,6 +26,8 @@ PHP Task
  * 6. The interfaces cannot be modified.
  */
 
+----- HOW IT SHOULD WORK -----
+
 // Input: DOLLAR
 
 // Current balance: 1.00 (DOLLAR)
