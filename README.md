@@ -27,19 +27,35 @@ PHP Task
  */
 
 // Input: DOLLAR
+
 // Current balance: 1.00 (DOLLAR)
+
 // Input: GET-B
+
 // B
+
 // Input: Q
+
 // Current balance: 0.25 (Q)
+
 // Input: Q
+
 // Current balance: 0.50 (Q, Q)
+
 // Input: Q
+
 // Current balance: 0.75 (Q, Q, Q)
+
 // Input: Q
+
 // Current balance: 1.00 (Q, Q, Q, Q)
+
 // Input: GET-B
+
 // Item not found. Please choose another item.
+
 // Input: RETURN-MONEY
+
 // Q, Q, Q, Q
+
 // Input:
